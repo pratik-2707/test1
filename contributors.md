@@ -1,3 +1,7 @@
 #name of contributors
 
-pratik bhagat
+<b>pratik bhagat</b>
+
+#college 
+
+<b> iiits </b>
